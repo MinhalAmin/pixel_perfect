@@ -22,8 +22,8 @@ export default function Home() {
           <div className="py-12">
           <div className="ml-24 flex gap-2 ">
           <Image width="20" height="20" src="/weblogo.png" alt="products " />
-          <a className="text-slate-800 text-xs underline" href="https://nextjs.org">
-          https://nextjs.org
+          <a className="text-slate-800 text-xs underline" href="https://github.com/MinhalAmin/template">
+          https://github.com
           </a>
           </div >
           <div className="ml-24 flex gap-2 py-3 ">
